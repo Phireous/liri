@@ -1,0 +1,22 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "liri project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phireous/liri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phireous/liri/issues"
+  },
+  "homepage": "https://github.com/Phireous/liri#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.5"
+  }
+}
